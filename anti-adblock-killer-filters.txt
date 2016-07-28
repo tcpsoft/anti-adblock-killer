@@ -25,6 +25,9 @@
 !----------------------------------------------------------------------------------------------------!
 ! AntiAdblock - Generic
 !----------------------------------------------------------------------------------------------------!
+! start TCP edit
+@@||kbb.com/*ad$script
+! end TCP edit
 ! TryMask.com
 ! site: https://trymask.com/
 ! demo: http://www.getgrubbing.com/
